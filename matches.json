@@ -1,0 +1,149 @@
+{
+  "groupPhase": [
+    {
+      "matchid": 1,
+      "start_time": "2024-04-27 19:00:46",
+      "end_time": "2024-04-27 19:31:52",
+      "winner": "Team 4",
+      "team1_name": "Team 3",
+      "team2_name": "Team 4",
+      "mapname": "de_ancient",
+      "team1_score": 5,
+      "team2_score": 13
+    },
+    {
+      "matchid": 2,
+      "start_time": "2024-04-27 19:03:01",
+      "end_time": "2024-04-27 19:44:28",
+      "winner": "Team 2",
+      "team1_name": "FFF",
+      "team2_name": "Team 2",
+      "mapname": "de_inferno",
+      "team1_score": 10,
+      "team2_score": 13
+    },
+    {
+      "matchid": 3,
+      "start_time": "2024-04-27 19:56:41",
+      "end_time": "2024-04-27 20:27:57",
+      "winner": "FFF",
+      "team1_name": "Team 3",
+      "team2_name": "FFF",
+      "mapname": "de_mirage",
+      "team1_score": 5,
+      "team2_score": 13
+    },
+    {
+      "matchid": 4,
+      "start_time": "2024-04-27 19:56:57",
+      "end_time": "2024-04-27 20:46:21",
+      "winner": "Team 4",
+      "team1_name": "Team 4",
+      "team2_name": "Team 2",
+      "mapname": "de_anubis",
+      "team1_score": 13,
+      "team2_score": 8
+    },
+    {
+      "matchid": 5,
+      "start_time": "2024-04-27 21:22:50",
+      "end_time": "2024-04-27 21:58:55",
+      "winner": "FFF",
+      "team1_name": "FFF",
+      "team2_name": "Team 4",
+      "mapname": "de_inferno",
+      "team1_score": 13,
+      "team2_score": 7
+    },
+    {
+      "matchid": 6,
+      "start_time": "2024-04-27 21:25:48",
+      "end_time": "2024-04-27 22:06:35",
+      "winner": "Team 3",
+      "team1_name": "Team 2",
+      "team2_name": "Team 3",
+      "mapname": "de_dust2",
+      "team1_score": 9,
+      "team2_score": 13
+    },
+    {
+      "matchid": 7,
+      "start_time": "2024-04-27 22:38:45",
+      "end_time": "2024-04-27 23:04:03",
+      "winner": "Team 4",
+      "team1_name": "Team 3",
+      "team2_name": "Team 4",
+      "mapname": "de_mirage",
+      "team1_score": 2,
+      "team2_score": 13
+    },
+    {
+      "matchid": 8,
+      "start_time": "2024-04-27 22:41:03",
+      "end_time": "2024-04-27 23:19:13",
+      "winner": "FFF",
+      "team1_name": "FFF",
+      "team2_name": "Team 4",
+      "mapname": "de_mirage",
+      "team1_score": 13,
+      "team2_score": 8
+    },
+    {
+      "matchid": 9,
+      "start_time": "2024-04-27 23:52:09",
+      "end_time": "2024-04-28 00:25:45",
+      "winner": "Team 4",
+      "team1_name": "Team 2",
+      "team2_name": "Team 4",
+      "mapname": "de_ancient",
+      "team1_score": 9,
+      "team2_score": 13
+    },
+    {
+      "matchid": 10,
+      "start_time": "2024-04-27 23:53:47",
+      "end_time": "2024-04-28 00:26:58",
+      "winner": "FFF",
+      "team1_name": "Team 3",
+      "team2_name": "FFF",
+      "mapname": "de_anubis",
+      "team1_score": 9,
+      "team2_score": 13
+    }
+  ],
+  "finals": [
+    {
+      "matchid": 11,
+      "start_time": "2024-04-28 01:10:06",
+      "end_time": "2024-04-28 01:35:01",
+      "winner": "Team 4",
+      "team1_name": "Team 4",
+      "team2_name": "FFF",
+      "mapname": "de_vertigo",
+      "team1_score": 13,
+      "team2_score": 2
+    },
+    {
+      "matchid": 12,
+      "start_time": "2024-04-28 01:46:23",
+      "end_time": "2024-04-28 02:26:02",
+      "winner": "FFF",
+      "team1_name": "Team 4",
+      "team2_name": "FFF",
+      "mapname": "de_nuke",
+      "team1_score": 11,
+      "team2_score": 13
+    },
+    {
+      "matchid": 13,
+      "start_time": "2024-04-28 02:39:56",
+      "end_time": "2024-04-28 03:29:11",
+      "winner": "Team 4",
+      "team1_name": "Team 4",
+      "team2_name": "FFF",
+      "mapname": "de_anubis",
+      "team1_score": 13,
+      "team2_score": 9
+    }
+  ]
+}

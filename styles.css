@@ -1,0 +1,50 @@
+body {
+  background-color: #222;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%; /* Set maximum width */
+  margin: 0 auto; /* Center the table */
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #444;
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: #111;
+  color: #fff;
+}
+
+.green {
+  color: #ffffff;
+  text-shadow: 0 0 10px #56ff56, 0 0 15px #56ff56;
+}
+
+.red {
+  color: rgb(255, 255, 255);
+  text-shadow: 0 0 10px #ff4343, 0 0 15px #ff4343;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+#group-phase-players th, #finals-players th, #total-players th {
+  cursor: pointer;
+  user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+}
+
+tbody:nth-child(even){
+  background:#333;
+}
